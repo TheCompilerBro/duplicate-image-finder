@@ -140,8 +140,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Puspendu Mallick
 
-GitHub: @TheCompilerBro
+GitHub: [TheCompilerBro]([url](https://github.com/TheCompilerBro/TheCompilerBro))
 
-LinkedIn: Puspendu Mallick
+LinkedIn: [Puspendu Mallick](www.linkedin.com/in/puspendu-mallick-3185bb296)
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
