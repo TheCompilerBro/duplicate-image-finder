@@ -135,3 +135,13 @@ Suggestions and improvements are welcome. If you find a problem, please open an 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+👨‍💻 Author
+
+Puspendu Mallick
+
+GitHub: @TheCompilerBro
+
+LinkedIn: Puspendu Mallick
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
