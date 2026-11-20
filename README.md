@@ -67,7 +67,7 @@ Here is a preview of Duplicate Image Finder:
 
 <p align="center">
   <img
-    src="/Users/puspendumallick/Downloads/duplicate-image-finder/assets/app-ss.png"
+    src="assets/app-ss.png"
     alt="Duplicate Image Finder GUI"
     width="900"
   />
