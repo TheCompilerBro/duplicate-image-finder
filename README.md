@@ -61,6 +61,18 @@ python duplicate_image_finder.py
 
 On macOS, you can use `python3` if the `python` command is not available.
 
+## 📸 Application Screenshot
+
+Here is a preview of Duplicate Image Finder:
+
+<p align="center">
+  <img
+    src="/Users/puspendumallick/Downloads/duplicate-image-finder/assets/app-ss.png"
+    alt="Duplicate Image Finder GUI"
+    width="900"
+  />
+</p>
+
 ## How to use it
 
 1. Open the application.
